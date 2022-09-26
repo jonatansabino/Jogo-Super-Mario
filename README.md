@@ -1,2 +1,2 @@
 # Super-Mario
-Super Mario No Browser
+Jogo do Super Mario No Browser (Navegador)
